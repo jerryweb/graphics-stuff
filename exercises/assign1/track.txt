@@ -1,0 +1,4 @@
+1
+/Users/jerrywebb/Documents/cs420/exercises/assign1/splines/cs1.sp
+
+
